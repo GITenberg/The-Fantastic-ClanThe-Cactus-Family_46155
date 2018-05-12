@@ -1,0 +1,30 @@
+_repo: The-Fantastic-ClanThe-Cactus-Family_46155
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46155-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Bonker, Frances
+    gutenberg_agent_id: '43637'
+    url: http://www.gutenberg.org/2009/agents/43637
+  - agent_name: Thornber, J. J. (John James)
+    alias: Thornber, John James
+    birthdate: 1872
+    deathdate: 1962
+    gutenberg_agent_id: '43636'
+    url: http://www.gutenberg.org/2009/agents/43636
+description: ''
+gutenberg_issued: '2014-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46155'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cactus -- Southwest, New'
+- !lcc 'QK'
+title: 'The Fantastic Clan: The Cactus Family'
+url: http://www.gutenberg.org/ebooks/46155
